@@ -60,7 +60,7 @@ apiVersion: v1
 kind: PersistentVolume
 metadata:
   name: mysql-pv-volume
- labels:
+  labels:
     type: local
 spec:
   storageClassName: local
