@@ -17,9 +17,7 @@ En esta actividad desplegamos una aplicación de alta tolerancia a fallos utiliz
 ## 1.2. Que aspectos NO cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 - No logramos implementar el dominio gestionado por el grupo, y consecuentemente no logramos obtener el certificado SSL del dominio.
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
-
-<>
-
+![image](https://github.com/user-attachments/assets/beafc664-5d40-4d5b-b9a8-2cba3bd22c00)
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
   
 ## detalles del desarrollo.
