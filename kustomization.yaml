@@ -1,0 +1,6 @@
+- name: mysql-pass
+  literals:
+  - password=WordPass
+resources:
+  - mysql-deployment.yaml
+  - wordpress-deployment.yaml
