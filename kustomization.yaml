@@ -1,3 +1,4 @@
+secretGenerator:
 - name: mysql-pass
   literals:
   - password=WordPass
