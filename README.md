@@ -1,6 +1,6 @@
 # info de la materia: ST0263-242
 #
-# Estudiante(s): David Grisales Posada dgrisalesp@eafit.edu.co, Juan Manuel Garzón Vargas jmgarzonv@eafit.edu.co, 
+# Estudiante(s): David Grisales Posada dgrisalesp@eafit.edu.co, Juan Manuel Garzón Vargas jmgarzonv@eafit.edu.co.
 #
 # Profesor: Edwin Nelson Montoya, emontoya@eafit.edu.co
 #
