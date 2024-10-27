@@ -103,7 +103,8 @@ kubectl apply -k .
 kubectl get svc wordpress
 ```
 Se copia el DNS name y se copia en el navegador, solo quedaría usar la aplicación Wordpress como se ha hecho toda la vida.
-
+## Videosustentación
+https://youtu.be/OkKj68D4UEo
 
 # referencias:
 
